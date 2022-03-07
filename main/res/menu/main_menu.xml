@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/main_menu_buscar"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <item android:id="@+id/main_menu_ordenar"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Sort">
+    </item>
+
+    <item android:id="@+id/main_menu_eliminar"
+        android:title="Delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/main_menu_llamar"
+        android:title="Delete"
+        android:icon="@android:drawable/sym_call_outgoing"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/main_menu_exportarJs"
+        android:title="Exportar a sd en JS">
+    </item>
+
+    <item android:id="@+id/main_menu_exportarcnt"
+        android:title="Exportar a sd en .CNT">
+    </item>
+
+    <item android:id="@+id/main_menu_ImportarJS"
+        android:title="Importar desde sd en JS">
+    </item>
+
+    <item android:id="@+id/main_menu_Importarcnt"
+        android:title="Importar desde sd en .CNT">
+    </item>
+
+
+</menu>

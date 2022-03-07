@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgendaContactos</string>
+    <string name="hello_blank_fragment" translatable="false">Fragmento en blanco</string>
+    <string name="title_activity_main2" translatable="false">ActividadPrincipal2</string>
+    <string name="first_fragment_label" translatable="false">Primer fragmento</string>
+    <string name="second_fragment_label" translatable="false">Segundo Fragmento</string>
+    <string name="next" translatable="false">Siguiente</string>
+    <string name="previous" translatable="false">Anterior</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Email">Email</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Telefono">Número telefónico</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Importar">Import</string>
+    <string name="Exportar">Export</string>
+    <string name="permisosConcedidos">The application has the necessary permissions</string>
+    <string name="permisosDenegados">Denied permissions to the app</string>
+</resources>
